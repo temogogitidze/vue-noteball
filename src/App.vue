@@ -7,3 +7,7 @@ import { RouterView } from 'vue-router'
   <RouterLink to="/stats">Stats</RouterLink>
   <RouterView />
 </template>
+
+<style>
+@import 'bulma/css/bulma.min.css';
+</style>
