@@ -1,6 +1,5 @@
 <template>
-  <RouterLink class="button" to="/">Notes</RouterLink> |
-  <RouterLink class="button" to="/stats">Stats</RouterLink>
+  <NavBar />
   <RouterView />
 </template>
 
